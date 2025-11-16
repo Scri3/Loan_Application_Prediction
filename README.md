@@ -2,7 +2,7 @@
 
 Implementation of **Decision Tree classifier** which
 predicts whether a loan application (from a given dataset) is **Approved** or **Denied** based
-on two numerical features:\
+on two numerical features:
 - **age**
 - **credit_score**
 
