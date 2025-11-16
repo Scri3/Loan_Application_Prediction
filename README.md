@@ -1,4 +1,4 @@
-## Decision Tree Algorithm
+## Prediction of whether a loan application gets accepted or denied
 
 Implementation of **Decision Tree classifier** which
 predicts whether a loan application (from a given dataset) is **Approved** or **Denied** based
