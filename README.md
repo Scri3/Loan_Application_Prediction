@@ -16,9 +16,7 @@ categorical labels into numerical values, trains a decision tree using
 
 ------------------------------------------------------------------------
 
-## How the Decision Tree Algorithm Works
-
-A **Decision Tree classifier** works by splitting data into branches
+Decision Tree classifiers work by splitting data into branches
 based on feature values to make predictions. At each step, the algorithm
 chooses the most informative feature and threshold to divide the
 dataset.
